@@ -1,0 +1,27 @@
+server:
+  port: 8086
+
+spring:
+  data:
+    mongodb:
+      authentication-database: admin
+      username: rootuser
+      password: rootpass
+      database: series_db
+      port: 27017
+      host: mongodb
+  rabbitmq:
+    username: guest
+    password: guest
+    host: rabbitmq
+    port: 5672
+ 
+queue:
+  series:
+    name: Series
+
+info:
+  app:
+    name: ${spring.application.name}
+    version: 1.0.0
+    description: Series Service Final Materia Especialización Backend I
