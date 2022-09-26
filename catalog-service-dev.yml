@@ -6,7 +6,7 @@ spring:
       mongodb:
         database: catalog_db
         port: 27017
-        host: localhost
+        host: mongodb
   rabbitmq:
     username: guest
     password: guest
