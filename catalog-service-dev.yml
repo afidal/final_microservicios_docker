@@ -4,9 +4,12 @@ server:
 spring:
   data:
       mongodb:
-        database: catalog_db
-        port: 27017
-        host: mongodb
+      authentication-database: admin
+      username: rootuser
+      password: rootpass
+      database: catalog_db
+      port: 27017
+      host: mongodb
   rabbitmq:
     username: guest
     password: guest
