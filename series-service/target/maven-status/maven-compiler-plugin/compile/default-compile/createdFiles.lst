@@ -1,0 +1,10 @@
+com/afidal/series/SeriesServiceApplication.class
+com/afidal/series/repository/SeriesRepository.class
+com/afidal/series/config/RabbitMQSenderConfig.class
+com/afidal/series/controller/SeriesController.class
+com/afidal/series/service/impl/SeriesService.class
+com/afidal/series/model/Series.class
+com/afidal/series/service/ISeriesService.class
+com/afidal/series/config/RabbitTemplateConfig.class
+com/afidal/series/model/Season.class
+com/afidal/series/model/Chapter.class

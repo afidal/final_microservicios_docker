@@ -1,0 +1,10 @@
+/Users/analaurafidalgo/Desktop/AnaLauraFidalgo_ConDocker/series-service/src/main/java/com/afidal/series/model/Season.java
+/Users/analaurafidalgo/Desktop/AnaLauraFidalgo_ConDocker/series-service/src/main/java/com/afidal/series/config/RabbitTemplateConfig.java
+/Users/analaurafidalgo/Desktop/AnaLauraFidalgo_ConDocker/series-service/src/main/java/com/afidal/series/model/Chapter.java
+/Users/analaurafidalgo/Desktop/AnaLauraFidalgo_ConDocker/series-service/src/main/java/com/afidal/series/service/ISeriesService.java
+/Users/analaurafidalgo/Desktop/AnaLauraFidalgo_ConDocker/series-service/src/main/java/com/afidal/series/repository/SeriesRepository.java
+/Users/analaurafidalgo/Desktop/AnaLauraFidalgo_ConDocker/series-service/src/main/java/com/afidal/series/controller/SeriesController.java
+/Users/analaurafidalgo/Desktop/AnaLauraFidalgo_ConDocker/series-service/src/main/java/com/afidal/series/SeriesServiceApplication.java
+/Users/analaurafidalgo/Desktop/AnaLauraFidalgo_ConDocker/series-service/src/main/java/com/afidal/series/config/RabbitMQSenderConfig.java
+/Users/analaurafidalgo/Desktop/AnaLauraFidalgo_ConDocker/series-service/src/main/java/com/afidal/series/model/Series.java
+/Users/analaurafidalgo/Desktop/AnaLauraFidalgo_ConDocker/series-service/src/main/java/com/afidal/series/service/impl/SeriesService.java
